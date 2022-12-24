@@ -28,8 +28,6 @@ github_username:  Extiri
 
 # Build settings
 theme: minima
-minima:
-  skin: dark
 plugins:
   - jekyll-feed
 
